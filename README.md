@@ -7,7 +7,7 @@ Bachelor's degree in Science & Technology and Computer Science (Jun 2019 - Ago 2
 
 <h3>Skills 🛠️</h3>
 
-- **Languages**: C, C#, Python
+- **Programming Languages**: C, C#, Python, Java
 - **Database**: Microsoft SQL Server
 
 <h3>Work experience 👔</h3>

@@ -3,18 +3,20 @@
 <h3>Education 🎓</h3>
 
 - **Universidade Federal do ABC (UFABC)**\
-Bachelor's degree in Science & Technology and Computer Science (Jun 2019 - Ago 2024)
+Bachelor's degree in Science & Technology and Bachelor's degree in Computer Science (Jun 2019 - May 2025)
 
 <h3>Skills 🛠️</h3>
 
 - **Programming Languages**: C, C#, Python, Java
 - **Database**: Microsoft SQL Server
+- **Analytics Tool**: Alteryx, Tableau
 
 <h3>Work experience 👔</h3>
 
 | Job Position | Company | Field | Work Period |
 |--- |--- |--- |--- |
-| Intern | Western Asset | Software Developer | Jul 2021 - until now |
+| Intern | Western Asset | Software Developer | Jul 2021 - Jul 2022  |
+| Intern | Itaú-Unibanco | Data Analyst       | Ago 2022 - Until Now |
 
 <h3>Certifications 📜</h3>
 <h4>JavaScript</h4>
